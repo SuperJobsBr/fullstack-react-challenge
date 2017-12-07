@@ -11,6 +11,8 @@ The desired features are:
 - An user can add products to this shopping list;
 - An user can delete and update a shopping list;
 
+###### OBS: There is no need for a User model or authentication. This is optional;
+
 ### Model specifications ⚒
 
 #### List:
